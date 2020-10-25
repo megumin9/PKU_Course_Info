@@ -1,4 +1,4 @@
 # PKU_Course_Info
-
-test
+进行一个测的试
 ## Collaborators：
+[TKD](https://github.com/TheKismetDevil)
