@@ -1,6 +1,5 @@
-# PKU_Course_Info
+# PKU Course Information
 进行一个测的试
-## Collaborators：
+#### Collaborators：
 [TKD](https://github.com/TheKismetDevil)
-
 [CosmicProphet](https://github.com/GoodThaumiel)
